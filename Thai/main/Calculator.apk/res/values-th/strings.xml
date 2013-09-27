@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Calculator</string>
-    <string name="error">Error</string>
+    <string name="app_name">เครื่องคิดเลข</string>
+    <string name="error">ผิดพลาด</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -39,10 +39,10 @@
     <string name="sqrt">√</string>
     <string name="power">^</string>
     <string name="factorial">!</string>
-    <string name="basic">Basic panel</string>
-    <string name="advanced">Advanced panel</string>
-    <string name="clear_history">Clear history</string>
-    <string name="text_copied_toast">Text copied.</string>
+    <string name="basic">โหมดปกติ</string>
+    <string name="advanced">โหมดขั้นสูง</string>
+    <string name="clear_history">ล้างประวัติ</string>
+    <string name="text_copied_toast">คัดลอกข้อความ</string>
     <string name="standard">standard</string>
     <string name="scientific">scientific</string>
     <string name="leftParenDesc">left parenthesis</string>
