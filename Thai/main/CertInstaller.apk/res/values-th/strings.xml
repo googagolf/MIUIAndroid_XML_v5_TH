@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Certificate Installer</string>
-    <string name="pick_file_title">Choose a certificate</string>
+    <string name="app_name">ติดตั้งใบรับรอง</string>
+    <string name="pick_file_title">เลือกใบรับรอง</string>
     <string name="pkcs12_password_dialog_title">Extract certificate</string>
     <string name="extracting_pkcs12">Extracting…</string>
     <string name="pkcs12_file_password_dialog_title">Extract from %s</string>
     <string name="name_credential_dialog_title">Name the certificate</string>
-    <string name="credential_name">Certificate name:</string>
+    <string name="credential_name">ชื่อใบรับรอง:</string>
     <string name="credential_password">Type the password to extract the certificates.</string>
     <string name="credential_info">The package contains:</string>
     <string name="p12_description">Certificates in PKCS12 keystore.</string>
@@ -23,7 +23,7 @@
     <string name="cert_not_saved">The certificate is not installed.</string>
     <string name="no_cert_to_saved">No certificate to install.</string>
     <string name="invalid_cert">The certificate is invalid.</string>
-    <string name="cert_is_added">%s is installed.</string>
+    <string name="cert_is_added">%s ถูกติดตั้งแล้ว</string>
     <string name="cert_too_large_error">"Couldn't install because the certificate size is too large."</string>
     <string name="cert_missing_error">"Couldn't install because the certificate file couldn't be located."</string>
     <string name="cert_read_error">"Couldn't install because the certificate file couldn't be read."</string>
